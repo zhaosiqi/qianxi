@@ -1,0 +1,11 @@
+$(function(){
+	$.yincan(".rightdom8>.our2");
+	$.xiaoshi(".bottom1>.head>.head2");
+	$.chuxian(".bottom");
+	$.chuxian1(".concuty>.shang>.shang1");
+    $.chuxian2(".concuty>.shang>.shang1>.jian");
+    $.chuxian3(".concuty>.xia>.xia1>.cc");
+    $.chuxian4(".concuty>.xia>.xia1>.dd");
+    $.chuxian5(".concuty>.xia>.xia2>.ff");
+    $.chuxian6(".concuty>.xia>.xia2>.gg");
+})
